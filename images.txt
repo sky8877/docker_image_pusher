@@ -1,2 +1,3 @@
 alpine
+jeessy/ddns-go
 sanjusss/aliyun-ddns
