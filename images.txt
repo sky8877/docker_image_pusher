@@ -1,2 +1,4 @@
+qinglong2
+qbittorrent2
 xhofe/alist:latest
 
