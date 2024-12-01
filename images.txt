@@ -1,4 +1,4 @@
-qinglong2
-qbittorrent2
+whyour/qinglong:latest
+linuxserver/qbittorrent:latest
 xhofe/alist:latest
 
