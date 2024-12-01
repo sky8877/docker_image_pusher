@@ -1,1 +1,3 @@
 xhofe/alist:latest
+linuxserver-qbittorrent2
+whyour-qinglong2
