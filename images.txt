@@ -1,4 +1,4 @@
 whyour/qinglong:latest
 linuxserver/qbittorrent:latest
 xhofe/alist:latest
-
+cloudnas/clouddrive2:latest
